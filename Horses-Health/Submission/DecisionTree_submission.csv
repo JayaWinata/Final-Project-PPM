@@ -24,7 +24,7 @@ id,0
 1257,died
 1258,died
 1259,died
-1260,died
+1260,euthanized
 1261,died
 1262,euthanized
 1263,lived
@@ -114,7 +114,7 @@ id,0
 1347,lived
 1348,died
 1349,lived
-1350,euthanized
+1350,died
 1351,lived
 1352,died
 1353,died
@@ -649,7 +649,7 @@ id,0
 1882,lived
 1883,lived
 1884,lived
-1885,died
+1885,euthanized
 1886,died
 1887,lived
 1888,died
