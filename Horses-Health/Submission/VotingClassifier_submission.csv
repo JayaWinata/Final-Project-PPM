@@ -98,7 +98,7 @@ id,0
 1331,died
 1332,died
 1333,died
-1334,euthanized
+1334,died
 1335,died
 1336,lived
 1337,lived
@@ -174,7 +174,7 @@ id,0
 1407,lived
 1408,lived
 1409,lived
-1410,lived
+1410,died
 1411,died
 1412,euthanized
 1413,lived
@@ -209,7 +209,7 @@ id,0
 1442,died
 1443,euthanized
 1444,lived
-1445,died
+1445,lived
 1446,lived
 1447,lived
 1448,lived
@@ -282,7 +282,7 @@ id,0
 1515,died
 1516,lived
 1517,died
-1518,lived
+1518,died
 1519,died
 1520,died
 1521,lived
@@ -536,7 +536,7 @@ id,0
 1769,lived
 1770,died
 1771,lived
-1772,lived
+1772,died
 1773,lived
 1774,died
 1775,lived
@@ -584,7 +584,7 @@ id,0
 1817,died
 1818,lived
 1819,euthanized
-1820,lived
+1820,died
 1821,lived
 1822,lived
 1823,lived

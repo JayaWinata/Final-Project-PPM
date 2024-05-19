@@ -16,7 +16,7 @@ id,0
 1249,died
 1250,lived
 1251,lived
-1252,lived
+1252,died
 1253,died
 1254,died
 1255,died
@@ -42,7 +42,7 @@ id,0
 1275,died
 1276,euthanized
 1277,died
-1278,euthanized
+1278,lived
 1279,died
 1280,lived
 1281,died
@@ -76,7 +76,7 @@ id,0
 1309,euthanized
 1310,died
 1311,euthanized
-1312,lived
+1312,died
 1313,died
 1314,died
 1315,died
@@ -145,7 +145,7 @@ id,0
 1378,died
 1379,died
 1380,lived
-1381,lived
+1381,died
 1382,euthanized
 1383,died
 1384,lived
@@ -156,7 +156,7 @@ id,0
 1389,died
 1390,lived
 1391,died
-1392,died
+1392,lived
 1393,died
 1394,euthanized
 1395,lived
@@ -176,7 +176,7 @@ id,0
 1409,lived
 1410,died
 1411,died
-1412,euthanized
+1412,lived
 1413,lived
 1414,lived
 1415,died
@@ -209,11 +209,11 @@ id,0
 1442,died
 1443,euthanized
 1444,lived
-1445,lived
+1445,died
 1446,lived
 1447,lived
 1448,lived
-1449,died
+1449,lived
 1450,euthanized
 1451,lived
 1452,lived
@@ -236,7 +236,7 @@ id,0
 1469,euthanized
 1470,lived
 1471,died
-1472,died
+1472,lived
 1473,died
 1474,died
 1475,lived
@@ -257,14 +257,14 @@ id,0
 1490,died
 1491,lived
 1492,died
-1493,lived
+1493,euthanized
 1494,lived
 1495,euthanized
 1496,died
 1497,died
 1498,lived
 1499,died
-1500,lived
+1500,euthanized
 1501,lived
 1502,died
 1503,lived
@@ -284,7 +284,7 @@ id,0
 1517,died
 1518,lived
 1519,died
-1520,lived
+1520,died
 1521,lived
 1522,died
 1523,lived
@@ -334,7 +334,7 @@ id,0
 1567,euthanized
 1568,died
 1569,lived
-1570,died
+1570,lived
 1571,died
 1572,lived
 1573,lived
@@ -359,7 +359,7 @@ id,0
 1592,lived
 1593,died
 1594,died
-1595,lived
+1595,died
 1596,died
 1597,died
 1598,died
@@ -376,7 +376,7 @@ id,0
 1609,lived
 1610,died
 1611,euthanized
-1612,died
+1612,lived
 1613,lived
 1614,lived
 1615,died
@@ -388,7 +388,7 @@ id,0
 1621,died
 1622,euthanized
 1623,died
-1624,lived
+1624,died
 1625,died
 1626,died
 1627,euthanized
@@ -426,7 +426,7 @@ id,0
 1659,died
 1660,died
 1661,lived
-1662,lived
+1662,euthanized
 1663,lived
 1664,lived
 1665,died
@@ -504,7 +504,7 @@ id,0
 1737,lived
 1738,euthanized
 1739,lived
-1740,lived
+1740,died
 1741,lived
 1742,lived
 1743,died
@@ -515,7 +515,7 @@ id,0
 1748,lived
 1749,died
 1750,lived
-1751,lived
+1751,euthanized
 1752,died
 1753,died
 1754,lived
@@ -550,7 +550,7 @@ id,0
 1783,lived
 1784,lived
 1785,euthanized
-1786,euthanized
+1786,lived
 1787,lived
 1788,euthanized
 1789,euthanized
@@ -575,7 +575,7 @@ id,0
 1808,died
 1809,lived
 1810,euthanized
-1811,lived
+1811,euthanized
 1812,died
 1813,lived
 1814,lived
@@ -592,7 +592,7 @@ id,0
 1825,lived
 1826,lived
 1827,euthanized
-1828,died
+1828,lived
 1829,died
 1830,died
 1831,lived
@@ -690,11 +690,11 @@ id,0
 1923,lived
 1924,euthanized
 1925,died
-1926,lived
-1927,lived
+1926,euthanized
+1927,died
 1928,lived
 1929,died
-1930,died
+1930,lived
 1931,lived
 1932,lived
 1933,died
@@ -716,7 +716,7 @@ id,0
 1949,died
 1950,euthanized
 1951,died
-1952,lived
+1952,died
 1953,lived
 1954,lived
 1955,died
@@ -746,7 +746,7 @@ id,0
 1979,died
 1980,died
 1981,lived
-1982,died
+1982,lived
 1983,lived
 1984,died
 1985,euthanized
@@ -800,7 +800,7 @@ id,0
 2033,died
 2034,lived
 2035,euthanized
-2036,lived
+2036,euthanized
 2037,lived
 2038,died
 2039,euthanized
