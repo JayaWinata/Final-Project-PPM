@@ -1,4 +1,4 @@
-# Machine Learning Prediction Project
+# A Comparative Study of Machine Learning Algorithms for Veterinary and Speculative Scenarios
 
 ## Overview
 This project investigates the application of machine learning models to two distinct prediction tasks:
