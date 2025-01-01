@@ -35,7 +35,7 @@ The study implements and compares four primary machine learning algorithms to an
 4. Model training with hyperparameter optimization
 5. Performance evaluation using F1-Score metric
 
-## Results (Accuracy)
+## Results (F1-Score)
 
 ### Spaceship Titanic Dataset Performance
 - CatBoost: 80.64
